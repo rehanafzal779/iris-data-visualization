@@ -46,4 +46,4 @@ The goal of this project is to explore the famous Iris dataset to understand rel
 
 ## 📬 Author
 
-Rehan Afzal  
+Ahmad  Afzal  
